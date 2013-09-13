@@ -1,0 +1,14 @@
+{
+    "name": "blisz/Series",
+    "description": "Testing new php things",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "blisz",
+            "email": "bliszor@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "dev-master"
+    }
+}
